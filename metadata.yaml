@@ -1,0 +1,31 @@
+_repo: Stage-Confidences--Talks-About-Players-and-Play-Acting_13277
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, Clara
+    aliases:
+    - Morrison, Clara
+    - Harriott, Clara Morris
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '4972'
+    url: http://www.gutenberg.org/2009/agents/4972
+    wikipedia: http://en.wikipedia.org/wiki/Clara_Morris
+description: ''
+gutenberg_issued: '2004-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Actors -- Correspondence'
+- !lcc 'PN'
+- !lcsh 'Acting'
+title: 'Stage Confidences: Talks About Players and Play Acting'
+url: http://www.gutenberg.org/ebooks/13277
